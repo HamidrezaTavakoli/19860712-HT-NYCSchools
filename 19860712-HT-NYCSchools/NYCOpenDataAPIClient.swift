@@ -11,7 +11,7 @@ import Foundation
 class NYCOpenDataAPIClient {
     // MARK: - Constants
     private struct APIKeysAndEndpoints {
-        static let AppToken = "g70IBSYvopycV66eIaiWxxhTd"
+        static let AppToken = " "
         static let HighSchoolsInfoEndpoint = "https://data.cityofnewyork.us/resource/97mf-9njv.json"
         static let SatScoresInfoEndpoint = "https://data.cityofnewyork.us/resource/734v-jeq5.json"
     }
